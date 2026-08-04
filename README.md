@@ -1,6 +1,8 @@
 # harman_test
 Harman's Single-Factor Test Use principal (psych) With (In) R Software
 
+https://www.youtube.com/watch?v=nRYSdyiNwAA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
